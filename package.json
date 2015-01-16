@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ikbhal/CrowdCalendar/issues"
   },
-  "homepage": "https://github.com/ikbhal/CrowdCalendar"
+  "homepage": "https://github.com/ikbhal/CrowdCalendar",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
 }
